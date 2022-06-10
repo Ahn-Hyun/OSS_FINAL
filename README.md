@@ -18,4 +18,7 @@ https://github.com/OpenMediaVault-Plugin-Developers/installScript/blob/master/RE
 
 This project doesn't have enough novelity, but this project was really needed for me. 
 
+youtube link : https://youtu.be/-yo2_brmCQU
+
 Thank you
+
